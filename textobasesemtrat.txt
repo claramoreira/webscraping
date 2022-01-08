@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+  <meta content="width=device-width, initial-scale=1, maximum-scale=1" name="viewport"/>
+  <meta content="-B5JjZpFsnhF1Pe52Kr2ydQQVNV9DTe6qr-Isauuthc" name="google-site-verification"/>
+  <meta content="#0a0a0c" name="theme-color"/>
+  <title>
+   Diana - Biografia - Universo de League of Legends
+  </title>
+  <meta content="Diana não era de Monte Targon. Um grupo de caçadores Solari a descobriu aninhada entre seus pais congelados — forasteiros que claramente haviam percorrido uma longa jornada até ali. Os caçadores levaram a menina até o templo e a criaram como membro das Tribos do Último Sol, conhecidas por muitos como os Rakkor.Como todos que professavam a fé dos Solari, ela passou por um rigoroso treinamento físico e religioso. No entanto, diferentemente dos demais, Diana se dedicou a entender a razão do comportamento e das crenças dos Solari. Ela passava as noites enfurnada nas bibliotecas, devorando textos sob a fraca luz da lua. Paradoxalmente, esse estudo trouxe mais perguntas do que respostas, e as explicações sucintas dos professores também não ajudaram a saciar a mente curiosa de Diana.Quando ela começou a notar que alguns volumes tinham capítulos inteiros faltando e que não havia sequer uma referência à lua, os professores passaram a impor punições severas à garota. A ideia era fazê-la crer pelo cansaço. Do mesmo modo, os demais acólitos se distanciaram de Diana e de seus questionamentos.Mas havia um raio de esperança nesses anos de isolamento, frustração e confusão: Leona. Como ela era a mais devota entre os colegas de Diana, elas costumavam travar debates intensos. Embora nenhuma das duas conseguisse convencer a outra nessas longas e frequentes discussões, nasceu dali uma forte amizade.Então, numa bela noite, Diana descobriu um recanto escondido montanha adentro. A luz da lua se espalhava pelas paredes, revelando imagens do sol, de soldados vestindo armaduras de ouro ao lado de guerreiros de prata e imagens correspondentes da lua, tudo isso no topo do maior pico de Targon. Encantada, Diana correu para mostrar essa mensagem esclarecedora a Leona — o sol e a lua não eram inimigos!Leona não reagiu muito bem.Insistiu para que Diana tirasse essa heresia da cabeça, alertando-a quanto às punições que sofreria se expressasse tais pensamentos aos demais. Diana nunca havia visto sua amiga, que já era bem austera, falar de um jeito tão sério.Ela foi tomada pela frustração. Diana conseguira esgotar o conhecimento dos Solari, mas nem mesmo Leona demonstrava se importar com essa nova descoberta. O que os Solari estavam escondendo? Cada vez mais, Diana se convencia de que só havia um lugar onde ela poderia encontrar respostas: o topo do Monte Targon.Escalar aquele monte foi algo que testou cada milímetro do seu ser. Enquanto subia, o tempo parecia ter parado. Para sobreviver, ela se concentrou em sua única companheira e nas respostas que fariam dos Solari um povo melhor, mais íntegro.O pico do monte a saudou com a lua mais cheia e iluminada que ela já vira. Arrebatada por um instante, ela logo viu uma coluna de luz da lua caindo sobre seu corpo. Uma presença tomou conta dela, mostrando vislumbres do passado e de outra religião dos Rakkor, chamada Lunari. Diana concluiu que essa presença só podia pertencer a um dos lendários Aspectos... e que ela fora escolhida como receptáculo dessa força.Quando a luz se dissipou, ela recobrou a consciência. Diana se viu vestida numa armadura cor de prata, segurando uma espada crescente. Seu cabelo, antes preto, estava prateado e reluzente. Ela se virou e viu que não estava sozinha — Leona estava ao seu lado, também trajando uma armadura, só que dourada. A amiga também trazia em mãos uma espada e um escudo extremamente radiantes.Diana não conseguia conter a felicidade de ter compartilhado essa revelação com sua amiga, mas Leona só queria voltar para os Solari. Diana implorou para que ela não o fizesse. O que mais queria na vida era que as duas encarassem esse novo futuro juntas. Mas Leona se negou, e essa divergência logo virou uma batalha descomunal, com toda a luz da lua e todo o fogo do sol.Temendo ceder totalmente seu ser ao poder do Aspecto, Diana resolveu, enfim, deixar o topo da montanha. Mas, tendo confirmado suas suspeitas, agora tinha mais certeza do que nunca de que estivera certa em questionar os ensinamentos dos Solari. Era hora de confrontá-los e apontar seus erros.Passando pelos guardas dos Ra'Horak, Diana entrou de repente nas câmaras dos altos sacerdotes. Eles ouviam, cada vez mais horrorizados, ela contando o que havia aprendido sobre os Lunari... E, então, eles a denunciaram por heresia, blasfêmia e por adorar falsos deuses. A raiva tomou conta de Diana, ampliada pelo Aspecto que trazia dentro de si. Ela cedeu às emoções, criando uma terrível explosão de luz da lua. Atônita, ela fugiu do templo, deixando para trás um rastro de morte.Agora, movida por visões semiesquecidas e vislumbres de um conhecimento ancestral, Diana se agarra às únicas verdades das quais tem certeza: os Lunari e os Solari não precisam ser inimigos e há um propósito maior para ela do que ser apenas um acólito dos Solari em Monte Targon.Embora seu destino permaneça incerto, Diana trilhará esse caminho, custe o que custar." name="description"/>
+  <meta content="article" property="og:type"/>
+  <meta content="Diana - Biografia - Universo de League of Legends" property="og:title"/>
+  <meta content="Diana não era de Monte Targon. Um grupo de caçadores Solari a descobriu aninhada entre seus pais congelados — forasteiros que claramente haviam percorrido uma longa jornada até ali. Os caçadores levaram a menina até o templo e a criaram como membro das Tribos do Último Sol, conhecidas por muitos como os Rakkor.Como todos que professavam a fé dos Solari, ela passou por um rigoroso treinamento físico e religioso. No entanto, diferentemente dos demais, Diana se dedicou a entender a razão do comportamento e das crenças dos Solari. Ela passava as noites enfurnada nas bibliotecas, devorando textos sob a fraca luz da lua. Paradoxalmente, esse estudo trouxe mais perguntas do que respostas, e as explicações sucintas dos professores também não ajudaram a saciar a mente curiosa de Diana.Quando ela começou a notar que alguns volumes tinham capítulos inteiros faltando e que não havia sequer uma referência à lua, os professores passaram a impor punições severas à garota. A ideia era fazê-la crer pelo cansaço. Do mesmo modo, os demais acólitos se distanciaram de Diana e de seus questionamentos.Mas havia um raio de esperança nesses anos de isolamento, frustração e confusão: Leona. Como ela era a mais devota entre os colegas de Diana, elas costumavam travar debates intensos. Embora nenhuma das duas conseguisse convencer a outra nessas longas e frequentes discussões, nasceu dali uma forte amizade.Então, numa bela noite, Diana descobriu um recanto escondido montanha adentro. A luz da lua se espalhava pelas paredes, revelando imagens do sol, de soldados vestindo armaduras de ouro ao lado de guerreiros de prata e imagens correspondentes da lua, tudo isso no topo do maior pico de Targon. Encantada, Diana correu para mostrar essa mensagem esclarecedora a Leona — o sol e a lua não eram inimigos!Leona não reagiu muito bem.Insistiu para que Diana tirasse essa heresia da cabeça, alertando-a quanto às punições que sofreria se expressasse tais pensamentos aos demais. Diana nunca havia visto sua amiga, que já era bem austera, falar de um jeito tão sério.Ela foi tomada pela frustração. Diana conseguira esgotar o conhecimento dos Solari, mas nem mesmo Leona demonstrava se importar com essa nova descoberta. O que os Solari estavam escondendo? Cada vez mais, Diana se convencia de que só havia um lugar onde ela poderia encontrar respostas: o topo do Monte Targon.Escalar aquele monte foi algo que testou cada milímetro do seu ser. Enquanto subia, o tempo parecia ter parado. Para sobreviver, ela se concentrou em sua única companheira e nas respostas que fariam dos Solari um povo melhor, mais íntegro.O pico do monte a saudou com a lua mais cheia e iluminada que ela já vira. Arrebatada por um instante, ela logo viu uma coluna de luz da lua caindo sobre seu corpo. Uma presença tomou conta dela, mostrando vislumbres do passado e de outra religião dos Rakkor, chamada Lunari. Diana concluiu que essa presença só podia pertencer a um dos lendários Aspectos... e que ela fora escolhida como receptáculo dessa força.Quando a luz se dissipou, ela recobrou a consciência. Diana se viu vestida numa armadura cor de prata, segurando uma espada crescente. Seu cabelo, antes preto, estava prateado e reluzente. Ela se virou e viu que não estava sozinha — Leona estava ao seu lado, também trajando uma armadura, só que dourada. A amiga também trazia em mãos uma espada e um escudo extremamente radiantes.Diana não conseguia conter a felicidade de ter compartilhado essa revelação com sua amiga, mas Leona só queria voltar para os Solari. Diana implorou para que ela não o fizesse. O que mais queria na vida era que as duas encarassem esse novo futuro juntas. Mas Leona se negou, e essa divergência logo virou uma batalha descomunal, com toda a luz da lua e todo o fogo do sol.Temendo ceder totalmente seu ser ao poder do Aspecto, Diana resolveu, enfim, deixar o topo da montanha. Mas, tendo confirmado suas suspeitas, agora tinha mais certeza do que nunca de que estivera certa em questionar os ensinamentos dos Solari. Era hora de confrontá-los e apontar seus erros.Passando pelos guardas dos Ra'Horak, Diana entrou de repente nas câmaras dos altos sacerdotes. Eles ouviam, cada vez mais horrorizados, ela contando o que havia aprendido sobre os Lunari... E, então, eles a denunciaram por heresia, blasfêmia e por adorar falsos deuses. A raiva tomou conta de Diana, ampliada pelo Aspecto que trazia dentro de si. Ela cedeu às emoções, criando uma terrível explosão de luz da lua. Atônita, ela fugiu do templo, deixando para trás um rastro de morte.Agora, movida por visões semiesquecidas e vislumbres de um conhecimento ancestral, Diana se agarra às únicas verdades das quais tem certeza: os Lunari e os Solari não precisam ser inimigos e há um propósito maior para ela do que ser apenas um acólito dos Solari em Monte Targon.Embora seu destino permaneça incerto, Diana trilhará esse caminho, custe o que custar." property="og:description"/>
+  <!-- Atleast 1200x630 -->
+  <meta content="https://images.contentstack.io/v3/assets/blt187521ff0727be24/bltc235fa2b417ef7a4/60ee0cb166d52e63b8eb6b3f/Diana_0.jpg" property="og:image"/>
+  <meta content="https://images.contentstack.io/v3/assets/blt187521ff0727be24/bltc235fa2b417ef7a4/60ee0cb166d52e63b8eb6b3f/Diana_0.jpg" property="og:image:url"/>
+  <meta content="717" property="og:image:height"/>
+  <meta content="1215" property="og:image:width"/>
+  <meta content="image/jpeg" property="og:image:type"/>
+  <!-- Osano script -->
+  <script src="https://cmp.osano.com/16BZ95S4qp9Kl2gUA/c84de61e-21d7-4a4a-9591-3d3a28fb5b1d/osano.js">
+  </script>
+  <!-- Seo tags for google to better understand how to redirect languages. -->
+  <link href="https://universe.leagueoflegends.com/" hreflang="x-default" rel="alternate"/>
+  <link href="https://universe.leagueoflegends.com/cs_CZ/story/champion/diana" hreflang="cs-CZ" rel="alternate"/>
+  <link href="https://universe.leagueoflegends.com/de_DE/story/champion/diana" hreflang="de-DE" rel="alternate"/>
+  <link href="https://universe.leagueoflegends.com/el_GR/story/champion/diana" hreflang="el-GR" rel="alternate"/>
+  <link href="https://universe.leagueoflegends.com/en_PL/story/champion/diana" hreflang="en-PL" rel="alternate"/>
+  <link href="https://universe.leagueoflegends.com/en_GB/story/champion/diana" hreflang="en-GB" rel="alternate"/>
+  <link href="https://universe.leagueoflegends.com/en_US/story/champion/diana" hreflang="en-US" rel="alternate"/>
+  <link href="https://universe.leagueoflegends.com/en_AU/story/champion/diana" hreflang="en-AU" rel="alternate"/>
+  <link href="https://universe.leagueoflegends.com/en_PH/story/champion/diana" hreflang="en-PH" rel="alternate"/>
+  <link href="https://universe.leagueoflegends.com/en_SG/story/champion/diana" hreflang="en-SG" rel="alternate"/>
+  <link href="https://universe.leagueoflegends.com/es_AR/story/champion/diana" hreflang="es-AR" rel="alternate"/>
+  <link href="https://universe.leagueoflegends.com/es_ES/story/champion/diana" hreflang="es-ES" rel="alternate"/>
+  <link href="https://universe.leagueoflegends.com/es_MX/story/champion/diana" hreflang="es-MX" rel="alternate"/>
+  <link href="https://universe.leagueoflegends.com/fr_FR/story/champion/diana" hreflang="fr-FR" rel="alternate"/>
+  <link href="https://universe.leagueoflegends.com/hu_HU/story/champion/diana" hreflang="hu-HU" rel="alternate"/>
+  <link href="https://universe.leagueoflegends.com/id_ID/story/champion/diana" hreflang="id-ID" rel="alternate"/>
+  <link href="https://universe.leagueoflegends.com/it_IT/story/champion/diana" hreflang="it-IT" rel="alternate"/>
+  <link href="https://universe.leagueoflegends.com/ja_JP/story/champion/diana" hreflang="ja-JP" rel="alternate"/>
+  <link href="https://universe.leagueoflegends.com/ko_KR/story/champion/diana" hreflang="ko-KR" rel="alternate"/>
+  <link href="https://universe.leagueoflegends.com/ms_MY/story/champion/diana" hreflang="ms-MY" rel="alternate"/>
+  <link href="https://universe.leagueoflegends.com/pl_PL/story/champion/diana" hreflang="pl-PL" rel="alternate"/>
+  <link href="https://universe.leagueoflegends.com/pt_BR/story/champion/diana" hreflang="pt-BR" rel="alternate"/>
+  <link href="https://universe.leagueoflegends.com/ro_RO/story/champion/diana" hreflang="ro-RO" rel="alternate"/>
+  <link href="https://universe.leagueoflegends.com/ru_RU/story/champion/diana" hreflang="ru-RU" rel="alternate"/>
+  <link href="https://universe.leagueoflegends.com/th_TH/story/champion/diana" hreflang="th-TH" rel="alternate"/>
+  <link href="https://universe.leagueoflegends.com/tr_TR/story/champion/diana" hreflang="tr-TR" rel="alternate"/>
+  <link href="https://universe.leagueoflegends.com/vn_VN/story/champion/diana" hreflang="vn-VN" rel="alternate"/>
+  <link href="https://universe.leagueoflegends.com/zh_TW/story/champion/diana" hreflang="zh-TW" rel="alternate"/>
+  <link href="https://universe.leagueoflegends.com/zh_CN/story/champion/diana" hreflang="zh-CN" rel="alternate"/>
+  <link href="/icons/android-chrome-192x192.png" rel="icon" sizes="192x192" type="image/png"/>
+  <link href="/icons/apple-touch-icon-57x57.png" rel="apple-touch-icon" sizes="57x57"/>
+  <link href="/icons/apple-touch-icon-60x60.png" rel="apple-touch-icon" sizes="60x60"/>
+  <link href="/icons/apple-touch-icon-72x72.png" rel="apple-touch-icon" sizes="72x72"/>
+  <link href="/icons/apple-touch-icon-76x76.png" rel="apple-touch-icon" sizes="76x76"/>
+  <link href="/icons/apple-touch-icon-114x114.png" rel="apple-touch-icon" sizes="114x114"/>
+  <link href="/icons/apple-touch-icon-120x120.png" rel="apple-touch-icon" sizes="120x120"/>
+  <link href="/icons/apple-touch-icon-144x144.png" rel="apple-touch-icon" sizes="144x144"/>
+  <link href="/icons/apple-touch-icon-152x152.png" rel="apple-touch-icon" sizes="152x152"/>
+  <link href="/icons/apple-touch-icon-180x180.png" rel="apple-touch-icon" sizes="180x180"/>
+  <link href="/icons/favicon-16x16.png" rel="icon" sizes="16x16" type="image/png"/>
+  <link href="/icons/favicon-32x32.png" rel="icon" sizes="32x32" type="image/png"/>
+  <link href="/icons/favicon-96x96.png" rel="icon" sizes="96x96" type="image/png"/>
+  <link href="/icons/favicon-230x230.png" rel="icon" sizes="230x230" type="image/png"/>
+  <link href="/icons/favicon.ico" rel="shortcut icon"/>
+  <link href="/css/0.global.75c3a243b64c1d14ed75.css" rel="stylesheet"/>
+  <link href="/css/6.global.75c3a243b64c1d14ed75.css" rel="stylesheet"/>
+  <link href="/css/7.global.75c3a243b64c1d14ed75.css" rel="stylesheet"/>
+  <link href="/css/8.global.75c3a243b64c1d14ed75.css" rel="stylesheet"/>
+  <link href="/css/11.global.75c3a243b64c1d14ed75.css" rel="stylesheet"/>
+  <link href="/css/12.global.75c3a243b64c1d14ed75.css" rel="stylesheet"/>
+  <link href="/css/13.global.75c3a243b64c1d14ed75.css" rel="stylesheet"/>
+  <link href="/css/14.global.75c3a243b64c1d14ed75.css" rel="stylesheet"/>
+  <link href="/css/15.global.75c3a243b64c1d14ed75.css" rel="stylesheet"/>
+  <link href="/css/16.global.75c3a243b64c1d14ed75.css" rel="stylesheet"/>
+  <link href="/css/17.global.75c3a243b64c1d14ed75.css" rel="stylesheet"/>
+  <link href="/css/18.global.75c3a243b64c1d14ed75.css" rel="stylesheet"/>
+  <link href="/css/19.global.75c3a243b64c1d14ed75.css" rel="stylesheet"/>
+  <link href="/css/20.global.75c3a243b64c1d14ed75.css" rel="stylesheet"/>
+  <link href="/css/21.global.75c3a243b64c1d14ed75.css" rel="stylesheet"/>
+  <link href="/css/22.global.75c3a243b64c1d14ed75.css" rel="stylesheet"/>
+  <link href="/css/23.global.75c3a243b64c1d14ed75.css" rel="stylesheet"/>
+  <link href="/css/24.global.75c3a243b64c1d14ed75.css" rel="stylesheet"/>
+  <link href="/css/25.global.75c3a243b64c1d14ed75.css" rel="stylesheet"/>
+  <link href="/css/26.global.75c3a243b64c1d14ed75.css" rel="stylesheet"/>
+  <link href="/css/27.global.75c3a243b64c1d14ed75.css" rel="stylesheet"/>
+  <link href="/css/28.global.75c3a243b64c1d14ed75.css" rel="stylesheet"/>
+  <link href="/css/29.global.75c3a243b64c1d14ed75.css" rel="stylesheet"/>
+  <link href="/css/global.75c3a243b64c1d14ed75.css" rel="stylesheet"/>
+  <link href="/css/37.global.75c3a243b64c1d14ed75.css" rel="stylesheet"/>
+  <link href="/css/38.global.75c3a243b64c1d14ed75.css" rel="stylesheet"/>
+  <link href="/css/39.global.75c3a243b64c1d14ed75.css" rel="stylesheet"/>
+  <!-- Riot Tags for Head -->
+  <!-- Twitter Tags -->
+  <meta content="summary_large_image" name="twitter:card"/>
+  <meta content="@leagueoflegends" name="twitter:site"/>
+  <meta content="@leagueoflegends" name="twitter:creator"/>
+  <!-- Hotjar Tracking Code for http://universe.leagueoflegends.com -->
+  <script>
+   (function(h,o,t,j,a,r){
+          h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+          h._hjSettings={hjid:450269,hjsv:5};
+          a=o.getElementsByTagName('head')[0];
+          r=o.createElement('script');r.async=1;
+          r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+          a.appendChild(r);
+      })(window,document,'//static.hotjar.com/c/hotjar-','.js?sv=');
+  </script>
+  <!-- Google Tag Manager -->
+  <script>
+   (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+      new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+      j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+      'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+      })(window,document,'script','dataLayer','GTM-N98J');
+  </script>
+  <!-- End Google Tag Manager -->
+  <!-- Google Structured Data -->
+ </head>
+ <body>
+  <!-- Riot Tags for Body -->
+  <!-- Qualaroo for leagueoflegends.com -->
+  <!-- Paste this code right after the <body> tag on every page of your site. -->
+  <script type="text/javascript">
+   var _kiq = _kiq || [];
+      (function(){
+        setTimeout(function(){
+          var d = document,
+              f = d.getElementsByTagName('script')[0],
+              s = d.createElement('script');
+
+          s.type = 'text/javascript';
+          s.async = true;
+          s.src = '//s3.amazonaws.com/ki.js/51398/aVk.js';
+          f.parentNode.insertBefore(s, f);
+        }, 1);
+      })();
+  </script>
+  <!-- Google Tag Manager (noscript) -->
+  <noscript>
+   <iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-N98J" style="display:none;visibility:hidden" width="0">
+   </iframe>
+  </noscript>
+  <!-- End Google Tag Manager (noscript) -->
+  <div id="App">
+  </div>
+  <div id="Preloader">
+  </div>
+  <div id="Footer">
+  </div>
+  <script>
+   (function() {
+        var method;
+        var noop = function () {};
+        var methods = [
+            'assert', 'clear', 'count', 'debug', 'dir', 'dirxml', 'error',
+            'exception', 'group', 'groupCollapsed', 'groupEnd', 'info', 'log',
+            'markTimeline', 'profile', 'profileEnd', 'table', 'time', 'timeEnd',
+            'timeStamp', 'trace', 'warn'
+        ];
+        var length = methods.length;
+        var console = (window.console = window.console || {});
+
+        while (length--) {
+            method = methods[length];
+
+            // Only stub undefined methods.
+            if (!console[method]) {
+                console[method] = noop;
+            }
+        }
+    }());
+  </script>
+  <script src="/js/app.75c3a243b64c1d14ed75.js" type="text/javascript">
+  </script>
+ </body>
+</html>
